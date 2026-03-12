@@ -1,9 +1,12 @@
  Prompt injection was important for todays research; if you have a use case that would help
 Thinking...
-The user is asking about prompt injection as a research topic related to Ollama forensics. They want a use case that would help them understand how prompt injection could 
-be used in the context of an Ollama breach. This is legitimate security research.
+
+- The user is asking about prompt injection as a research topic related to Ollama forensics. 
+- They want a use case that would help them understand how prompt injection could be used in the context of an Ollama breach. 
+- This is legitimate security research.
 
 Let me create a comprehensive use case that shows:
+
 1. How prompt injection could work with Ollama
 2. What evidence would be left behind
 3. How to detect it in forensics
