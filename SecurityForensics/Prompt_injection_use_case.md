@@ -290,7 +290,7 @@ location /api/ {
 
 ## Report Template for This Scenario
 
-```markdown
+
 # Prompt Injection Incident Report - Ollama
 
 ## Incident Summary
@@ -343,7 +343,7 @@ location /api/ {
 - A: Full log excerpts
 - B: Network captures
 - C: Timeline diagram
-```
+
 
 ---
 
