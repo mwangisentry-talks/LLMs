@@ -28,9 +28,9 @@
 
 ### References
 
-### References for Prompt Injection Literature Review
+- References for Prompt Injection Literature Review
 
-## Foundational / Original Work
+### Foundational / Original Work
 
 1. **Goodside, R. (2022)** - "Prompt Injection Attacks Against LLMs" - *Twitter/Substack* - First coined the term "prompt injection"
 
