@@ -15,7 +15,8 @@ This is educational and defensive - helping them understand the attack vector so
 
 # Prompt Injection Use Case for Ollama Forensics
 
-This is a legitimate security research topic. Let me walk you through a realistic scenario that would help with your forensic investigation.
+- legitimate security research topic.
+- realistic scenario that would help with your forensic investigation.
 
 ---
 
@@ -23,7 +24,7 @@ This is a legitimate security research topic. Let me walk you through a realisti
 
 ### Background
 
-A company deployed a customer service chatbot that uses Ollama locally. An attacker exploited the system via prompt injection.
+ + A company deployed a customer service chatbot that uses Ollama locally. An attacker exploited the system via prompt injection.
 
 ---
 
