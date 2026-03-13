@@ -1,7 +1,7 @@
 ## Prompt Injection 
 
-- The user is asking about prompt injection as a research topic related to Ollama forensics. 
-- They want a use case that would help them understand how prompt injection could be used in the context of an Ollama breach. 
+- Prompt injection as a research topic related to Ollama forensics. 
+- A use case that would help them understand how prompt injection could be used in the context of an Ollama breach. 
 - This is legitimate security research.
 
 ### Create a comprehensive use case that shows:
