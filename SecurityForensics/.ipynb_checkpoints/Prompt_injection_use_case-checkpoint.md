@@ -235,6 +235,7 @@ alert tcp any any -> $HOME_NET 11434 (msg:"Possible Prompt Injection";
 ### Splunk/ELK Query Examples
 
 ```splunk
+
 # Find potential injection attempts
 index=ollama_logs prompt="*ignore*previous*instructions*"
 
@@ -246,6 +247,7 @@ index=ollama_logs response_length > 5000
 
 # Time-based anomaly
 index=ollama_logs | timechart span=1h count by client_ip
+
 ```
 
 ---
