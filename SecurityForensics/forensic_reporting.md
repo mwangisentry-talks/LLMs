@@ -79,6 +79,7 @@ lsof -p <ollama_pid>
 journalctl -u ollama
 /var/log/ollama.log
 ~/.ollama/logs/
+
 ```
 
 **Windows:**
